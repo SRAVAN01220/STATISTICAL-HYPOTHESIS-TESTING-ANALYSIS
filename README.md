@@ -1,19 +1,24 @@
-# Sales Exploratory Data Analysis Project
+##  Sales Exploratory Data Analysis Project
+
+###  Project Description
+This project performs Exploratory Data Analysis (EDA) on a sales dataset using Python in Google Colab.  
+The analysis focuses on understanding sales trends, product performance, and business insights.
+
+### Dataset Access
+You can access the dataset from the OneDrive link below:
+
+🔗 https://bitsiserlohn-my.sharepoint.com/:f:/r/personal/sravan_bitla_ue-germany_de/Documents/SALES%20EDA?csf=1&web=1&e=4Awbz8
+
+⚠️ Note: Download the dataset from OneDrive and upload it in Colab before running the notebook.
+
+### 🛠 Tools Used
+- Python  
+- Pandas  
+- Matplotlib  
+- Google Colab  
 
 ##  Author
 Sravan
-
-##  Project Objective
-The objective of this project is to perform Exploratory Data Analysis (EDA) on sales dataset to extract meaningful business insights.
-
-##  Dataset Used
-- L05. Sales-EDA (1).xlsx
-
-##  Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
 
 ##  Analysis Performed
 
