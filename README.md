@@ -8,7 +8,7 @@ The analysis focuses on understanding sales trends, product performance, and bus
 You can access the dataset from the OneDrive link below:
 
 <p align="center">
-<a href="[https://bitsiserlohn-my.sharepoint.com/:f:/r/personal/sravan_bitla_ue-germany_de/Documents/SALES%20EDA?csf=1&web=1&e=4Awbz8](https://bitsiserlohn-my.sharepoint.com/:f:/g/personal/sravan_bitla_ue-germany_de/IgD1m-L2QePkTZv21cjR-tLbAblP1cGWFU-Ma2MD49E3ySA?e=xY9Y8P)">
+<a href="https://bitsiserlohn-my.sharepoint.com/:f:/g/personal/sravan_bitla_ue-germany_de/IgD1m-L2QePkTZv21cjR-tLbAblP1cGWFU-Ma2MD49E3ySA?e=xY9Y8P">
 <img src="https://img.shields.io/badge/Sales_EDA-Folder%20Access-blue?style=for-the-badge&logo=microsoftonedrive" />
 </a>
 </p>
